@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">PayappLiteSample</string>
+    <string name="request_payment">결제 요청</string>
+    <string name="memberID">회원아이디</string>
+    <string name="price">결제금액</string>
+    <string name="taxPrice">과세금액</string>
+    <string name="taxFreePrice">면세금액</string>
+    <string name="taxFreeMent">결제금액이 면세인 경우 면세 금액을 입력해주세요</string>
+    <string name="goodName">상품명</string>
+    <string name="mobile">구매자휴대폰</string>
+    <string name="customName">고객명</string>
+    <string name="feedbackurl">피드백 URL</string>
+    <string name="customNo">고객번호</string>
+    <string name="var2">추가변수2</string>
+    <string name="var1">추가변수1</string>
+    <string name="sendSms">SMS 발송</string>
+    <string name="returnurl">돌아가기 URL</string>
+    <string name="testGood">테스트 상품</string>
+    <string name="failPaymentRequest">결제 요청에 실패했습니다.</string>
+    <string name="successPaymentRequest">결제 요청에 성공했습니다.</string>
 </resources>
